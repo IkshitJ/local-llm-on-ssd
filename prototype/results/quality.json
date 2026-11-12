@@ -1,0 +1,26 @@
+[
+ {
+  "exercise": "affine-cipher",
+  "passed_try": 1,
+  "gen_tokens": 714,
+  "seconds": 107.7
+ },
+ {
+  "exercise": "beer-song",
+  "passed_try": 1,
+  "gen_tokens": 413,
+  "seconds": 129.5
+ },
+ {
+  "exercise": "book-store",
+  "passed_try": 0,
+  "gen_tokens": 1774,
+  "seconds": 302.3
+ },
+ {
+  "exercise": "bottle-song",
+  "passed_try": 2,
+  "gen_tokens": 887,
+  "seconds": 169.4
+ }
+]

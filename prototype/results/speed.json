@@ -1,0 +1,40 @@
+[
+ {
+  "cache_gib": "4",
+  "extra": [
+   "--moe-stream-direct",
+   "--moe-stream-io-threads",
+   "8",
+   "-t",
+   "4"
+  ],
+  "load_s": 3.0,
+  "short_cold": {
+   "prompt_tokens": 39,
+   "prompt_tps": 9.83,
+   "first_token_s": 4.0,
+   "gen_tokens": 200,
+   "gen_tps": 7.99,
+   "wall_s": 29.0
+  },
+  "short_warm": {
+   "prompt_tokens": 43,
+   "prompt_tps": 12.75,
+   "first_token_s": 3.4,
+   "gen_tokens": 200,
+   "gen_tps": 8.5,
+   "wall_s": 26.9
+  },
+  "long": {
+   "prompt_tokens": 1928,
+   "prompt_tps": 56.52,
+   "first_token_s": 34.1,
+   "gen_tokens": 200,
+   "gen_tps": 8.11,
+   "wall_s": 58.8
+  },
+  "free_mem_pct": 34,
+  "server_rss_gib": 6.47,
+  "swapouts_during": 0
+ }
+]

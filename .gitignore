@@ -1,0 +1,17 @@
+# Model weights (~22 GB) - download separately, see README
+prototype/models/*.gguf
+*.gguf
+*.seg*
+*.joined
+
+# Upstream clones - see README for exact commits
+prototype/llama.cpp/
+prototype/polyglot-benchmark/
+
+# Environment / OS
+prototype/.venv/
+.DS_Store
+__pycache__/
+
+# Scratch output from the quality runner
+prototype/results/quality/work/

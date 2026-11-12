@@ -1,0 +1,206 @@
+[
+ {
+  "exercise": "affine-cipher",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "beer-song",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "book-store",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.1
+ },
+ {
+  "exercise": "bottle-song",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "bowling",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "connect",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "dominoes",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "dot-dsl",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "food-chain",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "forth",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "go-counting",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "grade-school",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "grep",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.1
+ },
+ {
+  "exercise": "hangman",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "list-ops",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "paasio",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.1
+ },
+ {
+  "exercise": "phone-number",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "pig-latin",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "poker",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "pov",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "proverb",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "react",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "rest-api",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "robot-name",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "scale-generator",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "sgf-parsing",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "simple-linked-list",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "transpose",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "tree-building",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "two-bucket",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "variable-length-quantity",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "wordy",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "zebra-puzzle",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ },
+ {
+  "exercise": "zipper",
+  "passed_try": 1,
+  "gen_tokens": 0,
+  "seconds": 0.0
+ }
+]
